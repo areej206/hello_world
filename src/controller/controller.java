@@ -49,6 +49,7 @@ public class controller {
 
         } while (!finished);
         // Display the completed 2D array (Magic Square)
+        // another comment
         dao.printSquare(dao.getMagicSquare());
     }
 }
